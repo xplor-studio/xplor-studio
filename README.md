@@ -5,6 +5,13 @@ Documentation for XploR Studio:
 - https://xplor-studio.github.io/docs/
 
 ## Release notes:
+
+### 1.2.1
+
+- Refactor Target Selection in Run/Debug Configuration
+- Update detect JTAG information with Xilinx boards
+- Improve Peripheral Registers View for RISC-V platforms
+
 ### 1.2.0
 
 - Refactor Programming Bitfile function
